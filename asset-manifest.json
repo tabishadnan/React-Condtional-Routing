@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Condtional-Routing/static/css/main.438f901f.chunk.css",
+    "main.js": "/React-Condtional-Routing/static/js/main.2a51caac.chunk.js",
+    "main.js.map": "/React-Condtional-Routing/static/js/main.2a51caac.chunk.js.map",
+    "runtime-main.js": "/React-Condtional-Routing/static/js/runtime-main.3b23ab57.js",
+    "runtime-main.js.map": "/React-Condtional-Routing/static/js/runtime-main.3b23ab57.js.map",
+    "static/js/2.62b8aaa6.chunk.js": "/React-Condtional-Routing/static/js/2.62b8aaa6.chunk.js",
+    "static/js/2.62b8aaa6.chunk.js.map": "/React-Condtional-Routing/static/js/2.62b8aaa6.chunk.js.map",
+    "index.html": "/React-Condtional-Routing/index.html",
+    "precache-manifest.e6a011f14feee8ad0e44c3bf0e97f7a0.js": "/React-Condtional-Routing/precache-manifest.e6a011f14feee8ad0e44c3bf0e97f7a0.js",
+    "service-worker.js": "/React-Condtional-Routing/service-worker.js",
+    "static/css/main.438f901f.chunk.css.map": "/React-Condtional-Routing/static/css/main.438f901f.chunk.css.map",
+    "static/js/2.62b8aaa6.chunk.js.LICENSE.txt": "/React-Condtional-Routing/static/js/2.62b8aaa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b23ab57.js",
+    "static/js/2.62b8aaa6.chunk.js",
+    "static/css/main.438f901f.chunk.css",
+    "static/js/main.2a51caac.chunk.js"
+  ]
+}
